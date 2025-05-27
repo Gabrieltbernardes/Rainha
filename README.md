@@ -24,8 +24,8 @@ O código resolve o problema de forma recursiva, utilizando busca em profundidad
 
 ## 💻 Exemplo de Execução
 
-Digite o tamanho do tabuleiro (N): 4
-0 0 1 0
-1 0 0 0
-0 0 0 1
+Digite o tamanho do tabuleiro (N): 4<br>
+0 0 1 0<br>
+1 0 0 0<br>
+0 0 0 1<br>
 0 1 0 0
